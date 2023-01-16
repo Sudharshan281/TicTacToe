@@ -1,6 +1,6 @@
 # TIC TAC TOE
 
-A mobile game built with Flutter
+A mobile game built with **Flutter**
 
 ## Demo
 <p align="center">
