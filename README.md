@@ -4,7 +4,7 @@ A mobile game built with Flutter
 
 ## Demo
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/93808025/212614372-921638da-3363-4644-bb37-e50f5a79d570.gif" alt="animated" width="30%" height="30%"/>
+  <img src="https://user-images.githubusercontent.com/93808025/212651459-dac8a7ae-e8f6-4cc7-9425-9a2d234fc817.gif" alt="animated" width="30%" height="30%"/>
 </p>
 
 ## Development
