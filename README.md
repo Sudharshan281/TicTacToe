@@ -13,7 +13,7 @@ A mobile game built with **Flutter**
  * Main
 
 ### Backend
->  Has the algorithm to check who won the game (or is it a draw), **Game** , **Player** objects
+>  Has the algorithm to check who won the game (or is it a draw) and has **Game** , **Player** objects
 
 ### Frontend
 
