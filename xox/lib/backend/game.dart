@@ -4,7 +4,6 @@ class Game {
   static const boardSize = 9;
   static const squareSize = 100.0;
 
-  //Creating the empty board
   List<String>? board;
 
   static List<String>? initBoard() =>
