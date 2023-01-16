@@ -7,14 +7,18 @@ A mobile game built with **Flutter**
   <img src="https://user-images.githubusercontent.com/93808025/212651459-dac8a7ae-e8f6-4cc7-9425-9a2d234fc817.gif" alt="animated" width="30%" height="30%"/>
 </p>
 
-## Development
+## Code Organization
+ * Backend
+ * Frontend
+ * Main
 
-To run the app in debug mode:
+### Backend
+>  Has the algorithm to check who won the game (or is it a draw), **Game** , **Player** objects
 
-    flutter run
-    
-### Icon
+### Frontend
 
-Updating the launcher icon:
+> Has maincolor object, which stores all the colors used in this app
 
-    fvm flutter pub run flutter_launcher_icons:main
+### Main
+
+>  Has the code which makes the home page of the app
